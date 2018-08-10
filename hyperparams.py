@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 #/usr/bin/python2
-'''
-By kyubyong park. kbpark.linguist@gmail.com. 
-https://www.github.com/kyubyong/tacotron
-'''
+
 class Hyperparams:
     '''Hyper parameters'''
     
